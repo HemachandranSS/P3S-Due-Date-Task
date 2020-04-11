@@ -13,7 +13,7 @@ public class DueDateApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "Hello World!";
+		return "P3S Tasks!";
 	}
 
 	public static void main(String[] args) {

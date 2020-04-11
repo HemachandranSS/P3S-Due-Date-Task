@@ -4,3 +4,21 @@ Maven home: /usr/share/maven
 Java version: 1.8.0 242, vendor: Private Build, runtime: /usr/lib/jvm/java-8-openjdk-i386/jre
 Default locale: en IN, platform encoding: UTF-8
 OS name: "linux", version: "4.15.0-20-generic", arch: "i386", family: "unix"
+
+HTTP Method: Get
+
+Endpoints path
+
+/daily-due-date
+
+/weekly-due-date
+
+/monthly-due-date
+
+/yearly-due-date
+
+/onetime-due-date
+
+
+
+

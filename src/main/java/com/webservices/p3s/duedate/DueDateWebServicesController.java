@@ -11,13 +11,6 @@ import java.util.ArrayList;
 @RestController
 public class DueDateWebServicesController {
 
-
-  @RequestMapping(method = RequestMethod.GET, path = "/hello-world")
-  public String helloWorld(){
-
-	return "Hello World Hemachandran";
-  }
-
   @RequestMapping(method = RequestMethod.GET, path="/daily-due-date")
   public ArrayList<String> dueDateDaily(@RequestParam(required = false, defaultValue = "0") String occurrences, @RequestParam(required = false,defaultValue = "") String date){
 
