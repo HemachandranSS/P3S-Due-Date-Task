@@ -9,15 +9,24 @@ HTTP Method: Get
 
 Endpoints path
 
-/daily-due-date
+occurrences and date parameters are optional whereas occurrences have default value 0 and date is current date.
 
-/weekly-due-date
+/daily-due-date?occurrences=5
 
-/monthly-due-date
+/weekly-due-date?occurrences=5
 
-/yearly-due-date
+/monthly-due-date?occurrences=5
+
+/yearly-due-date?occurrences=5
 
 /onetime-due-date
+
+
+HTTP Basic Authorization is used
+
+UserName: platform3solutions
+
+PassWord: P3SAlphaEnabled
 
 
 
