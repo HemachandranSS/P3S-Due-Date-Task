@@ -1,4 +1,4 @@
-Due-Date-Generation
+DUE DATA GENERATION
 
 Apache Maven 3.6.0
 Maven home: /usr/share/maven
