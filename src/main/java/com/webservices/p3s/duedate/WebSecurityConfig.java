@@ -30,4 +30,3 @@ protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 }
 
 
-//https://www.tutorialspoint.com/spring_boot/spring_boot_securing_web_applications.htm
